@@ -218,7 +218,7 @@ handler.tags = ['info', 'main']
 handler.command = /^(menu|help)$/i
 
 handler.limit = false
-handler.register = true
+handler.register = false
 handler.exp = 3
 
 export default handler

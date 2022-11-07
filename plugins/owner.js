@@ -39,7 +39,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
     const detek = Math.floor( Kurang % (1000 * 60) / 1000)
 let cap = `*Hay kak @${await m.sender.split('@')[0]}, itu nomor ownerku jangan dispam yah ^_^*` 
   let buttonMessage= {
-'document':{'url':'https://instagram.com/gaara_xploite'},
+'document':{'url':'https://youtu.be/0_UPqUmn9p4'},
 'mimetype':global.ddocx,
 'fileName':'「 ᴹᴿ᭄ Ꭰᥲʀκɴᴇꜱ ×፝֟͜× 」',
 'fileLength':fsizedoc,
@@ -48,13 +48,13 @@ let cap = `*Hay kak @${await m.sender.split('@')[0]}, itu nomor ownerku jangan d
 'forwardingScore':555,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl':'https://instagram.com/gaara_xploite',
+'mediaUrl':'https://youtu.be/0_UPqUmn9p4',
 'mediaType':2,
 'previewType':'pdf',
 'title':`💌 Ultah Owner: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
 'body':`⚘ by ᴹᴿ᭄ Ꭰᥲʀκɴᴇꜱ ×፝֟͜×`,
 'thumbnail': await(await fetch(thumb)).buffer(),
-'sourceUrl':'https://instagram.com/gaara_xploite'}},
+'sourceUrl':'https://youtu.be/0_UPqUmn9p4'}},
 'caption':cap,
 'footer':`Itu Owner Ku Yah Kak Jangan Sungkan Untuk Chat ;3
 
