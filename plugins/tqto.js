@@ -39,25 +39,21 @@ Terimakasih Juga Untuk Kang Banned:
 • Furqan
 • Elyas
 • Rasel
-• Xteam
-• Khael
-• Atenabot
-• Baka Botz
-• ZeeoneOfc
+• Gaara
 • Zeks
 • Rendycraft  
 • Krizynofc
 • Nadin
 • Mursid
 • Jarot
-• Tio
+• Dini
 • Aca Mirabel
 • Ramdani
 • Penyedia Layanan API
 • Orang-orang yang Berdonasi
 ─────────────────────`
   let buttonMessage= {
-'document':{'url':'https://instagram.com/gaara_xploite'},
+'document':{'url':'https://youtu.be/0_UPqUmn9p4'},
 'mimetype':global.ddocx,
 'fileName':'「 ᴹᴿ᭄ Ꭰᥲʀκɴᴇꜱ ×፝֟͜× 」',
 'fileLength':fsizedoc,
@@ -66,13 +62,13 @@ Terimakasih Juga Untuk Kang Banned:
 'forwardingScore':555,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl':'https://instagram.com/gaara_xploite',
+'mediaUrl':'https://youtu.be/0_UPqUmn9p4',
 'mediaType':2,
 'previewType':'pdf',
 'title':`💌 Ultah Owner: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
 'body':`⚘ by ᴹᴿ᭄ Ꭰᥲʀκɴᴇꜱ ×፝֟͜×`,
 'thumbnail':await(await fetch('https://telegra.ph/file/0d4ee0e0274b3c0908ce4.jpg')).buffer(),
-'sourceUrl':'https://instagram.com/gaara_xploite'}},
+'sourceUrl':'https://youtu.be/0_UPqUmn9p4'}},
 'caption':cap,
 'footer':`Ini Ucapan Terima Kasih Untuk Orang Yang Telah Berpatisipasi
 
