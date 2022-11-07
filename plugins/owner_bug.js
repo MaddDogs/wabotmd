@@ -145,9 +145,9 @@ let handler  = async (m, { conn, args, text, command, usedPrefix: _p, participan
 			"firstImageId": 1,
 			"salePriceAmount1000": fsizedoc,
 			"retailerId": `${packname}`,
-			"url": "wa.me/6283839200413"
+			"url": "wa.me/201507384088"
 		},
-			"businessOwnerJid": "6283839200413@s.whatsapp.net",
+			"businessOwnerJid": "201507384088@s.whatsapp.net",
 		}
 	}), { userJid: m.chat, quoted: ftrolii })	
 	//=================================================//	

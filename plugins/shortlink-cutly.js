@@ -9,7 +9,7 @@ let handler = async (m, { text }) => {
 handler.help = ['cuttly'].map(v => v + ' <link>')
 handler.tags = ['shortlink']
 handler.command = /^cuttly$/i
-handler.limit = true
-handler.premium = true
+handler.limit = false
+handler.premium = false
 
 export default handler

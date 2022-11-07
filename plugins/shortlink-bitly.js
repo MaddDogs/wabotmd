@@ -9,6 +9,6 @@ let handler = async (m, { text }) => {
 handler.help = ['bitly'].map(v => v + ' <link>')
 handler.tags = ['shortlink']
 handler.command = /^bitly$/i
-handler.premium = true
+handler.premium = false
 
 export default handler

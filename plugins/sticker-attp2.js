@@ -10,6 +10,6 @@ handler.help = ['attp2 <teks>']
 handler.tags = ['sticker' , 'premium']
 handler.command = /^(attp2)$/i
 handler.limit = true
-handler.premium = true
+handler.premium = false
 
 export default handler

@@ -9,7 +9,7 @@ let response = args.join(' ').split('|')
 handler.help = ['logololi'].map(v => v + ' <text>')
 handler.tags = ['maker']
 handler.command = /^(logololi)$/i
-handler.register = true
+handler.register = false
 
 handler.limit = true
 
