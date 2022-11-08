@@ -47,12 +47,12 @@ global.psaweria = 'https://saweria.co/gaarasetyawan'
 global.nomorbot = '6281326024103'
 global.nomorown = '201507384088'
 global.namebot = '𝐌𝐀𝐑𝐊 𝐁𝐎𝐓 ラ'
-global.nameown = 'ᴹᴿ᭄☯┊Ꭰᥲʀκɴᴇꜱ複|'
+global.nameown = 'ᴹᴿ┊Ꭰᥲʀκɴᴇꜱ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['201507384088', 'ᴹᴿ᭄☯┊Ꭰᥲʀκɴᴇꜱ複', 'true']
+  ['201507384088', 'ᴹᴿ┊Ꭰᥲʀκɴᴇꜱ', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,13 +102,13 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = '𝐌𝐀𝐑𝐊 𝐁𝐎𝐓ラ | By ᴹᴿ᭄☯┊Ꭰᥲʀκɴᴇꜱ複|' //Main Watermark
+global.wm = '𝐌𝐀𝐑𝐊 𝐁𝐎𝐓ラ | By ᴹᴿ┊Ꭰᥲʀκɴᴇꜱ' //Main Watermark
 global.wm2 = 'Ꭰᥲʀκɴᴇꜱ複'
-global.wm3 = '𝐌𝐀𝐑𝐊 𝐁𝐎𝐓 By Ꭰᥲʀκɴᴇꜱ ×፝֟͜×'
+global.wm3 = '𝐌𝐀𝐑𝐊 𝐁𝐎𝐓 By Ꭰᥲʀκɴᴇꜱ'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `Mark Bot ラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄☯┊Ꭰᥲʀκɴᴇꜱ複|' 
+global.author = 'ᴹᴿ┊Ꭰᥲʀκɴᴇꜱ複' 
 global.packname = '𝐌𝐀𝐑𝐊 𝐁𝐎𝐓'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'September 6 2022'
@@ -378,7 +378,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'ᴍᴀᴅᴇ ʙʏ 𝐌𝐀𝐑𝐊 𝐁𝐎𝐓'
+global.stickpack = 'Created by mark bot'
 global.stickauth = `@gaara_xploite`
 
 global.multiplier = 38 // The higher, The harder levelup
